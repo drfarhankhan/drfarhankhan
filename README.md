@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drfarhankhan
 - 👀 I’m interested in C/C++/Python
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#/ASP.NET
 - 💞️ I’m looking to collaborate on Agile Methodologies.
 - 📫 How to reach me farhan.khan@yoobeecolleges.com
 
